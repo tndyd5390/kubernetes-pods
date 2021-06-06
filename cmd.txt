@@ -1,0 +1,1 @@
+kubectl run -it --image nicolaka/netshoot testnet /bin/bash
